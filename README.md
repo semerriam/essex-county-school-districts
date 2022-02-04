@@ -18,5 +18,5 @@ This sub-folder features a notebook, [essex_county_public_schools_graphs.ipynb](
 ## Essex County School Districts Google Maps API Repository
 This sub-folder includes a html document, [ec_schools_google_maps_api_copy.html](ec-school-districts-google-maps-api/ec_schools_google_maps_api_copy.html), which uses the Google Maps API (with the key removed) to plot the school district locations.
 
-##### Licensing
+### Licensing
 All code in this repository is available under the [MIT License](https://opensource.org/licenses/MIT). Files in the output/ directory are available under the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).
