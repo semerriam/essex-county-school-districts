@@ -1,4 +1,4 @@
-# Essex County, Mass. Public Schools
+# Essex County, Mass. Public School Districts Compared
 
 In-Progress
 
