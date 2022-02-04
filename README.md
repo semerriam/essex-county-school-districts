@@ -13,7 +13,7 @@ This sub-folder features two notebooks. [essex_county_public_schools_data.ipynb]
 ## Essex County School Graphics Repository
 This sub-folder features a notebook, [essex_county_public_schools_graphs.ipynb](ec_school_graphics/essex_county_public_schools_graphs.ipynb) that graphically explores the demographic, educational, and distance data— continuing what began in the two towns notebook. 
 
-![all_combos1.svg](ec_school_graphics/svgs/all_combos1.svg)
+![essex-country-school-districts-combos.png](ec_school_graphics/essex-country-school-districts-combos.png)
 
 ## Essex County School Districts Google Maps API Repository
 This sub-folder includes a html document, [ec_schools_google_maps_api_copy.html](ec-school-districts-google-maps-api/ec_schools_google_maps_api_copy.html), which uses the Google Maps API (with the key removed) to plot the school district locations on Google Maps
