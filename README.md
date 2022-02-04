@@ -16,5 +16,5 @@ This sub-folder features a notebook, [essex_county_public_schools_graphs.ipynb](
 ![essex-country-school-districts-combos.png](ec_school_graphics/essex-country-school-districts-combos.png)
 
 ## Essex County School Districts Google Maps API Repository
-This sub-folder includes a html document, [ec_schools_google_maps_api_copy.html](ec-school-districts-google-maps-api/ec_schools_google_maps_api_copy.html), which uses the Google Maps API (with the key removed) to plot the school district locations on Google Maps
+This sub-folder includes a html document, [ec_schools_google_maps_api_copy.html](ec-school-districts-google-maps-api/ec_schools_google_maps_api_copy.html), which uses the Google Maps API (with the key removed) to plot the school district locations.
 
