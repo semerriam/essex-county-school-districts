@@ -7,15 +7,15 @@ This project was focused on the demographic and educational attainment differenc
 The two-week exploration of primarily [Mass. DOE](https://profiles.doe.mass.edu/state_report/), [NCES](https://nces.ed.gov/ccd/schoolsearch/school_list.asp?Search=1&DistrictID=2506660/), and [ACS](https://www.census.gov/quickfacts/) data required merging over 20 datasets and using a variety of tools to analyze and explore the data graphically. Highlights inlcuded looking into historical documents about busing in the 70's from an archive in Boston and learning how to calculate and code the Haversine formula.
 
 Some tools used:
-Python — Pandas, plotnine
-R - ggplot
-Excel
-HTML
-Google API
-QGIS - OSM 
-Datawrapper
-RAWGraphs
-Illustrator
+- Python — Pandas, plotnine
+- R - ggplot
+- Excel
+- HTML
+- Google API
+- QGIS - OSM 
+- Datawrapper
+- RAWGraphs
+- Illustrator
 
 
 This repository holds several sub-folders devoted to different areas of the project:
