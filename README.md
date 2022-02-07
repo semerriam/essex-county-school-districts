@@ -4,7 +4,7 @@ Project can be seen in its current form [here.](https://semerriam.github.io/pj_e
 
 This project was focused on the demographic and educational attainment differences between public school districts in Essex County and the distances between these districts.
 
-The two-week exploration of primarily [Mass. DOE](https://profiles.doe.mass.edu/state_report/), [NCES](https://nces.ed.gov/ccd/schoolsearch/school_list.asp?Search=1&DistrictID=2506660/), and [ACS](https://www.census.gov/quickfacts/) data required merging over 20 datasets and using a variety of tools to analyze and explore the data graphically. Highlights inlcuded looking into historical documents about busing in the 70's from an archive in Boston and learning how to calculate and code the Haversine formula. Additionally, historical data aggregated by the [Boston Regional Metropolitcan Planning Organization](https://www.ctps.org/node/3280/) was used to compared incomes since the 70's. 
+The two-week exploration of primarily [Mass. DOE](https://profiles.doe.mass.edu/state_report/), [NCES](https://nces.ed.gov/ccd/schoolsearch/school_list.asp?Search=1&DistrictID=2506660/), and [ACS](https://www.census.gov/quickfacts/) data required merging over 20 datasets and using a variety of tools to analyze and explore the data graphically. Highlights inlcuded looking into historical documents about busing in the 70's from an archive in Boston and learning how to calculate and code the Haversine formula. Additionally, historical data aggregated by the [Boston Regional Metropolitcan Planning Organization](https://www.ctps.org/node/3280/) was used to compared incomes since the 70's betweeen towns. 
 
 Some tools used:
 - Python — Pandas, plotnine
