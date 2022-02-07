@@ -1,0 +1,15 @@
+District,Population Distribution,American Indian_Alaska Native,Asian,Black,Hispanic,NHPI,White,Two or more races,Total,Total %
+Haverhill,Current Population,3,28,102,662,4,1031,21,1852,73.35%
+Pentucket,Current Population,0,17,5,23,1,617,10,673,26.65%
+,,,,,,,,,,
+Total,,3,45,107,685,5,1648,31,2525,
+Average,,0.12%,1.78%,4.24%,27.13%,0.20%,65.27%,1.23%,100.00%,
+Divided evenly over 2 schools,,1.5,22.5,53.5,342.5,2.5,824,15.5,1262.5,
+,,,,,,,,,,
+,,,,,,,,,,
+Haverhill,Current Population,3,28,102,662,4,1031,21,1852,73.35%
+,Busing Scenario 1,2,33,78,502,4,1209,23,1852,73.35%
+,Busing Scenario 2,2,23,54,343,3,824,16,1263,50.00%
+Pentucket,Current Population,0,17,5,23,1,617,10,673,26.65%
+,Busing Scenario 1,1,12,29,183,1,439,8,673,26.65%
+,Busing Scenario 2,2,23,54,343,3,824,16,"1,263",50.00%
