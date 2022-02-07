@@ -18,6 +18,7 @@ Some tools used:
 - Illustrator
 
 
+
 This repository holds several sub-folders devoted to different areas of the project:
 
 ## Essex County School Distances Repository
