@@ -2,7 +2,23 @@
 
 Project can be seen [here.](https://semerriam.github.io/pj_ec_schools.html)
 
-This repository features a project about the demographics and educational attainment differences between public school districts in Essex County and the distances between these districts.
+This project was focused on the demographic and educational attainment differences between public school districts in Essex County and the distances between these districts.
+
+The two-week exploration of primarily MA DOE, NCES, and ACS data required merging over 20 datasets and using a variety of tools to analyze and explore the data graphically. Highlights inlcuded looking into historical documents about busing in the 70's from an archive and learning how to calculate and code the Haversine formula.
+
+Some tools used:
+Python — Pandas, plotnine
+R - ggplot
+Excel
+HTML
+Google API
+QGIS - OSM 
+Datawrapper
+RAWGraphs
+Illustrator
+
+
+This repository holds several sub-folders devoted to different areas of the project:
 
 ## Essex County School Distances Repository
 This sub-folder features a notebook, [essex_county_school_distances.ipynb](ec_school_distances/essex_county_school_distances.ipynb) that calculates the distance between each high school location using the Haversine formula with gps coordinates and joins the locations with each town name of residents attending each high school.
