@@ -33,7 +33,7 @@ This sub-folder features a notebook, [essex_county_public_schools_graphs.ipynb](
 ## Essex County School Districts Google Maps API Repository
 This sub-folder includes a html document, [ec_schools_google_maps_api_copy.html](ec-school-districts-google-maps-api/ec_schools_google_maps_api_copy.html), which uses the Google Maps API (with the key removed) to plot the school district locations.
 
-## Essex County School Districts Busing Scenarios
+## Essex County School Districts Busing Scenarios Repository
 This sub-folder includes the data used for calculating school district busing scenarios in three school district clusters.
 
 ### Licensing
