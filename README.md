@@ -1,6 +1,6 @@
 # Essex County, Mass. Public School Districts
 
-Project can be seen [here.](https://semerriam.github.io/pj_ec_schools.html)
+Project can be seen in its current form [here.](https://semerriam.github.io/pj_ec_schools.html)
 
 This project was focused on the demographic and educational attainment differences between public school districts in Essex County and the distances between these districts.
 
