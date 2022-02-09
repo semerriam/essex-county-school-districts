@@ -6,7 +6,7 @@ This project focuses on the demographic and educational attainment differences b
 
 Some tools used:
 - Python — Pandas, plotnine
-- R - ggplot
+- R — ggplot
 - Excel
 - HTML
 - Google API
