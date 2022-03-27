@@ -30,7 +30,7 @@ This sub-folder features a notebook, [essex_county_public_schools_graphs.ipynb](
 
 ![essex-country-school-districts-combos.png](ec_school_graphics/essex-country-school-districts-combos.png)
 
-## Essex County School Regressions
+## Essex County School Regressions Repository
 This sub-folder features a notebook, [ec-regressions-eda.ipynb](ec-regressions/ec-regressions-eda.ipynb) that explores correlations between variables i.e. median household income, race, MCAs scores, etc. in the dataset. It also identifies school districts that over and under fit the model. 
 
 ## Essex County School Districts Google Maps API Repository
