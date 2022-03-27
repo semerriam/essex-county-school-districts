@@ -25,7 +25,7 @@ This sub-folder features a notebook, [essex_county_school_distances.ipynb](ec_sc
 ## Essex County School Data Repository
 This sub-folder features two notebooks: The notebook, [essex_county_public_schools_data.ipynb](ec-school-data/essex_county_public_schools_data.ipynb) merges datasets from the Massachusetts Department of Education (DOE) and U.S. Census Bureau data for school districts and towns in Essex County. [essex_county_public_schools_two_towns.ipynb](ec-school-data/essex_county_public_schools_two_towns.ipynb) compares this data to the distances between school district locations. 
 
-## Essex County School Regressions Repository
+## Essex County School Analysis Repository
 This sub-folder features a notebook, [ec-regressions-eda.ipynb](ec-regressions/ec-regressions-eda.ipynb) that explores correlations between variables i.e. median household income, race, MCAs scores, etc. in the dataset. It also identifies school districts that over and under fit the model. 
 
 ## Essex County School Graphics Repository
